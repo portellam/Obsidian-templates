@@ -1,17 +1,6 @@
 <div align="center">
 
-![ob_Templates](https://user-images.githubusercontent.com/89364200/178482594-6c5673bc-6c21-46a5-a048-b2fafcf90407.png)
-
-
-<a href="https://discord.gg/veuWUTm">
-  <img src="https://img.shields.io/discord/686053708261228577?color=%234E5D94%20&label=Obsidian Discord Server&logo=Discord&logoColor=white">
-</a>
-<a href="https://www.reddit.com/r/ObsidianMD/">
-  <img src="https://img.shields.io/reddit/subreddit-subscribers/obsidianmd?label=r%2Fobsidianmd&logo=reddit&logoColor=white&?link=https://www.reddit.com/r/ObsidianMD/">
-</a>
-<a href="https://forum.obsidian.md/">
-  <img src="https://img.shields.io/badge/Obsidian Forum-Discuss-%238471DA">
-</a>
+![ob_Templates](logo.png)
 
 </div>
 
@@ -120,7 +109,7 @@ First of all, this list is not based on how much, how often or how significant t
 
 If at any point you have helped this project and you're name is not here, I apologize but this section was introduced a bit to far into the project creation. However you are welcome to contact me directly on the Forum or in Discord (Zektor#5616)
 
-<a href="https://github.com/FeFoe">Felix Förster</a> - Miss placed link correction
+<a href="https://github.com/FeFoe">Felix Förster</a> - Misplaced link correction
 
 <a href="https://github.com/kaleblub">Kaleb</a> - Added links to all plugin that are mentioned on the project as well as corrected some typos.
 
