@@ -46,11 +46,11 @@ You can add the templates to your vault in different ways:
 ### Are there any prerequisite plugins to use the templates?
   - **A:** Yes.
 
-#### Required plugins:
+##### Required plugins:
   - <a href="https://github.com/blacksmithgu/obsidian-dataview">DataView</a>
   - <a href="https://github.com/tgrosinger/advanced-tables-obsidian">Advanced Tables</a>
 
-### Recommended plugins: 
+##### Recommended plugins: 
   - <a href="https://github.com/Aidurber/obsidian-plugin-dynamic-toc">Dynamic Table of Contents</a>.
 
 ### What is the meaning of the Tags?
