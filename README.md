@@ -50,16 +50,16 @@ You can add the templates to your vault in different ways:
   - <a href="https://github.com/blacksmithgu/obsidian-dataview">DataView</a>
   - <a href="https://github.com/tgrosinger/advanced-tables-obsidian">Advanced Tables</a>
 
-#### Recommended plugins: 
+### Recommended plugins: 
   - <a href="https://github.com/Aidurber/obsidian-plugin-dynamic-toc">Dynamic Table of Contents</a>.
 
-#### What is the meaning of the Tags?
+### What is the meaning of the Tags?
   - **A:** All the Tags in the templates are just examples. You may add or remove any Tags you would like. To learn more: <a href="https://help.obsidian.md/How+to/Working+with+tags">how to work with Tags in Obsidian</a>.
 
-#### My question/issue is not listed here, how may I get an answer?`
+### My question/issue is not listed here, how may I get an answer?`
   - **A:** For any queries please head to the Obsidian forum and check the <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>.
 
-# Special Thanks
+# 5. Special Thanks
 Order of credits are not reflective of the significance of listed contributions.
   - <a href="https://github.com/llZektorll">Hugo Santos</a> - Creator of the original repository.
   - <a href="https://github.com/portellam">Alex Portell</a> - Maintainer of this forked repository, refactoring and grammatical changes (with respect to American English).
