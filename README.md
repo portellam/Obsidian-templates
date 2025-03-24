@@ -15,7 +15,7 @@ In Obsidian, the making and following of connections is frictionless. **Tend to 
   - [Official Obsidian Website](https://obsidian.md)
 
 # 2. Description
-The project *OB_Templates* is an <a href="https://obsidian.md/">Obsidian</a> template repository.
+The project *Obsidian Templates* is an <a href="https://obsidian.md/">Obsidian</a> template repository.
 
 Since the start of the project, there have been many changes. Since the beginning, it is a gathering place for my templates. Soon after, it became a project aimed at onboarding new users to <a href="https://obsidian.md/">Obsidian</a> - with a very important rule. **All templates must use only the core plugins of Obsidian**
 
@@ -24,7 +24,7 @@ In time, we found that the plugin <a href="https://github.com/blacksmithgu/obsid
 All the available templates are not designed to be perfect. They are intended to be used as a reference for any user to build on them, or to inspire when building new templates.
 
 # 3. Usage
-*OB_Templates* is not a vault template, this is simply a folder of templates to be added in your vault. 
+*Obsidian Templates* is not a vault template, this is simply a folder of templates to be added in your vault. 
 
 You can add the templates to your vault in different ways:
 1. Download the repository, extract the files and add to your vault.
@@ -56,7 +56,7 @@ You can add the templates to your vault in different ways:
 ### What is the meaning of the Tags?
   - **A:** All the Tags in the templates are just examples. You may add or remove any Tags you would like. To learn more: <a href="https://help.obsidian.md/How+to/Working+with+tags">how to work with Tags in Obsidian</a>.
 
-### My question/issue is not listed here, how may I get an answer?`
+### My question/issue is not listed here, how may I get an answer?
   - **A:** For any queries please head to the Obsidian forum and check the <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>.
 
 # 5. Special Thanks
