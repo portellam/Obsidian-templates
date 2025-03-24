@@ -32,32 +32,32 @@ You can add the templates to your vault in different ways, these are some of my 
 2. Go to a specific template and copy the text (Make sure you open in raw mode) and copy the text to a file in your vault.
 
 # 4. FAQ
-## 4.1. Q: How do I add the templates?
+### 4.1. Q: How do I add the templates?
 A: Simply copy the templates folder (`\templates\` or `\99 - Templates\`), or the specific template file to your vault.
 
-## 4.2. Q: How do I use the templates?
+### 4.2. Q: How do I use the templates?
 A: As a general rule, most templates need to be *imported*. In other words, make sure you have at least the `Obsidian native templates` option enabled and configured.
 
-## 4.3. Q: Can I contribute to the repository?
+### 4.3. Q: Can I contribute to the repository?
 A: YES! You are free to submit any template you use.
 
-## 4.4. Q: Can I clone the repository?
+### 4.4. Q: Can I clone the repository?
 A: Yes, just make sure to leave the credits.
 
-## 4.5. Q: Are there any prerequisite plugins to use the templates?
+### 4.5. Q: Are there any prerequisite plugins to use the templates?
 A: Yes.
 
-### Required plugins:
+#### Required plugins:
   - <a href="https://github.com/blacksmithgu/obsidian-dataview">DataView</a>
   - <a href="https://github.com/tgrosinger/advanced-tables-obsidian">Advanced Tables</a>
 
-### Recommended plugins: 
+#### Recommended plugins: 
   - <a href="https://github.com/Aidurber/obsidian-plugin-dynamic-toc">Dynamic Table of Contents</a>.
 
-## 4.6. Q: What is the meaning of the Tags?`
+### 4.6. Q: What is the meaning of the Tags?`
 A: All the Tags in the templates are just examples. You may add or remove any Tags you would like. To learn more: <a href="https://help.obsidian.md/How+to/Working+with+tags">how to work with Tags in Obsidian</a>.
 
-## 4.7. Q: My question/issue is not listed here, how may I get an answer?`
+### 4.7. Q: My question/issue is not listed here, how may I get an answer?`
 A: For any queries please head to the Obsidian forum and check the <a href="https://forum.obsidian.md/t/obsidian-notes-template/28940">OB_Template Thread</a>.
 
 # Special Thanks
