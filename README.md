@@ -60,7 +60,7 @@ All the available templates are not designed to be perfect. They are intended to
 *Obsidian Templates* is not a vault template, this is simply a folder of templates to be added in your vault. 
 
 You can add the templates to your vault in different ways:
-1. Download the repository, extract the files and add to your vault.
+1. [Download](#3-download) the repository, extract the files and add to your vault.
 2. Go to a specific template and copy the text (Make sure you open in raw mode) and copy the text to a file in your vault.
 
 ### 5. FAQ
