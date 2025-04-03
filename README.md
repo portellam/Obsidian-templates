@@ -3,7 +3,7 @@
 An <a href="https://obsidian.md/">Obsidian</a> template repository.
 
 ### [Download](#4-download)
-#### View this repository on [Codeberg][01], [GitHub][02].
+#### View this repository on [Codeberg][01] or [GitHub][02].
 [01]: https://codeberg.org/portellam/Obsidian-templates
 [02]: https://github.com/portellam/Obsidian-templates
 ##
